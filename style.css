@@ -1,3 +1,4 @@
+
 h1, h2, h3, h4, h5, h6 {
 }
 section {
@@ -30,6 +31,8 @@ ul {
     background: -webkit-linear-gradient(to right, #343434, #565656);
     background: linear-gradient(to right, #343434, #565656);
 }
+
+
 
 .bg-overlay-gradient {
     background: #9c2424;
